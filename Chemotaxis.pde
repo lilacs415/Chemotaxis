@@ -32,8 +32,8 @@ class Bacteria
     myColor = color((int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256), (int)(Math.random()*256));
     myWidth = (int)(Math.random()*75+25);
     myHeight = (int)(Math.random()*75+25);
-    myX = (int)(Math.random()*400);
-    myY = (int)(Math.random()*400);
+    myX = (int)(Math.random()*500);
+    myY = (int)(Math.random()*500);
   }
   void show()
   {
